@@ -1,0 +1,5 @@
+Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence.
+It allows computers to learn patterns from data.
+Machine learning is used in prediction, recommendation systems and image recognition.

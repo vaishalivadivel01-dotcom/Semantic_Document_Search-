@@ -1,0 +1,76 @@
+query_id,query,document_name,document_content,distance
+1,How computers learn from data,machine_learning.txt,"Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence.
+It allows computers to learn patterns from data.
+Machine learning is used in prediction, recommendation systems and image recognition.",1.0464853048324585
+1,How computers learn from data,ai.txt,"Artificial Intelligence
+
+Artificial Intelligence is a branch of computer science.
+It enables machines to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, robotics and automation.",1.3559715747833252
+1,How computers learn from data,deep_learning.txt,"Deep Learning
+
+Deep Learning is a subset of Machine Learning.
+It uses artificial neural networks with multiple layers.
+Deep learning is commonly used in speech recognition, self-driving cars and medical image analysis.",1.4534404277801514
+2,What is artificial intelligence,ai.txt,"Artificial Intelligence
+
+Artificial Intelligence is a branch of computer science.
+It enables machines to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, robotics and automation.",0.2935427129268646
+2,What is artificial intelligence,machine_learning.txt,"Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence.
+It allows computers to learn patterns from data.
+Machine learning is used in prediction, recommendation systems and image recognition.",0.9359027147293091
+2,What is artificial intelligence,deep_learning.txt,"Deep Learning
+
+Deep Learning is a subset of Machine Learning.
+It uses artificial neural networks with multiple layers.
+Deep learning is commonly used in speech recognition, self-driving cars and medical image analysis.",1.245743751525879
+3,Explain neural networks,deep_learning.txt,"Deep Learning
+
+Deep Learning is a subset of Machine Learning.
+It uses artificial neural networks with multiple layers.
+Deep learning is commonly used in speech recognition, self-driving cars and medical image analysis.",1.0737788677215576
+3,Explain neural networks,machine_learning.txt,"Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence.
+It allows computers to learn patterns from data.
+Machine learning is used in prediction, recommendation systems and image recognition.",1.2209409475326538
+3,Explain neural networks,ai.txt,"Artificial Intelligence
+
+Artificial Intelligence is a branch of computer science.
+It enables machines to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, robotics and automation.",1.315169334411621
+4,Applications of machine learning,machine_learning.txt,"Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence.
+It allows computers to learn patterns from data.
+Machine learning is used in prediction, recommendation systems and image recognition.",0.8186386823654175
+4,Applications of machine learning,deep_learning.txt,"Deep Learning
+
+Deep Learning is a subset of Machine Learning.
+It uses artificial neural networks with multiple layers.
+Deep learning is commonly used in speech recognition, self-driving cars and medical image analysis.",1.2397170066833496
+4,Applications of machine learning,ai.txt,"Artificial Intelligence
+
+Artificial Intelligence is a branch of computer science.
+It enables machines to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, robotics and automation.",1.3431003093719482
+5,How deep learning works,deep_learning.txt,"Deep Learning
+
+Deep Learning is a subset of Machine Learning.
+It uses artificial neural networks with multiple layers.
+Deep learning is commonly used in speech recognition, self-driving cars and medical image analysis.",0.6128743290901184
+5,How deep learning works,machine_learning.txt,"Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence.
+It allows computers to learn patterns from data.
+Machine learning is used in prediction, recommendation systems and image recognition.",1.0292820930480957
+5,How deep learning works,ai.txt,"Artificial Intelligence
+
+Artificial Intelligence is a branch of computer science.
+It enables machines to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, robotics and automation.",1.3915225267410278
